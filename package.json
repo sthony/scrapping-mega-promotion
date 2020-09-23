@@ -1,7 +1,7 @@
 {
   "name": "scrapping",
   "version": "1.0.0",
-  "description": "Cermati.com - Bank Mega Promotion",
+  "description": "Bank Mega Promotion",
   "main": "solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
